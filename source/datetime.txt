@@ -1,1 +1,1 @@
-master-contract 1779433677
+master-contract 1779560289
